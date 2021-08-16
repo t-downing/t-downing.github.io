@@ -12,4 +12,8 @@ Check out [my CV](https://tristandowning.github.io/cv/), which is also not done.
 
 You can also check out [my thesis](downing-tdowning-sm-tpp-2021.pdf), which is done.
 
-[this link](marketHPgap.html)
+Here's [a plot](marketHPgap.html) from the thesis.
+
+There is also one here:
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~tristandowning/7.embed"></iframe>
