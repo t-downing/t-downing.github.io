@@ -10,6 +10,6 @@ Contact me: <br>
 
 Check out [my CV](cv), which is also not done. (relative link?)
 
-You can also check out [my thesis](https://tristandowning.github.io/downing-tdowning-sm-tpp-2021.pdf), which is done.
+You can also check out [my thesis](downing-tdowning-sm-tpp-2021.pdf), which is done.
 
 
