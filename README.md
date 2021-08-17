@@ -16,4 +16,4 @@ Here's [a plot](marketHPgap.html) from the thesis.
 
 There is also one here:
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~tristandowning/7.embed"></iframe>
+<iframe width="400" height="400" frameborder="0" scrolling="no" src="//plotly.com/~tristandowning/7.embed"></iframe>
